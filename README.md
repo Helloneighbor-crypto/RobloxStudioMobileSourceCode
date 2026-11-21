@@ -86,7 +86,7 @@ Credits to the original creator who made this project possible (With ai slop + c
 
 2. Extract `mobile studio src.zip` into your Android project directory:
    ```text
-   app/src/main/java/com/exampletest/mobilestudiotest/
+   mobilestudiosrc/mobilestudiotest/
    ```
 
 3. Open the project in Android Studio and synchronize Gradle files.
