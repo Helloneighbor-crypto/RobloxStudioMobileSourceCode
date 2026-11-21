@@ -15,7 +15,7 @@ This repository contains the complete source code archive for the `com.examplete
 The source code is bundled inside `mobile studio src.zip`, comprising **178 source files** organized under the primary package structure:
 
 ```text
-com/exampletest/mobilestudiotest/
+mobilestudiosrc/mobilestudiotest/
 ├── MainActivity.java      # Application entry point and lifecycle management
 ├── StudioApp.java         # Application context and runtime initializations
 ├── R.java                 # Resource identifier mappings
